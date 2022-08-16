@@ -1,0 +1,30 @@
+_repo: Deux-annees-en-Ukraine-1917-1919-avec-une-carte-de-l-Ukraine_68560
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dubreuil, Charles
+    gutenberg_agent_id: '54827'
+    url: http://www.gutenberg.org/2009/agents/54827
+description: ''
+gutenberg_issued: '2022-07-18'
+identifiers:
+  gutenberg: '68560'
+  lccn: '25007953'
+language: fr
+pgterms:marc904: https://archive.org/details/deuxannesenukr00dubruoft/page/n5/mode/2up
+pgterms:marc905: 20220408130035dubreuil
+pgterms:marc906: '1919'
+pgterms:marc907: FR
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/Canadian
+  Libraries)
+publication_note: France :Henry Paulin,1919.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DK'
+- !lcsh 'Ukraine'
+- GITenberg
+title: "Deux années en Ukraine (1917-1919)\r\navec une carte de l'Ukraine."
+url: http://www.gutenberg.org/ebooks/68560
