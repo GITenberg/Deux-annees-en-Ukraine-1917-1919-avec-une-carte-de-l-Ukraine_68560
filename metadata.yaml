@@ -1,11 +1,16 @@
 _repo: Deux-annees-en-Ukraine-1917-1919-avec-une-carte-de-l-Ukraine_68560
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68560-h/images/cover.jpg
 creator:
   author:
     agent_name: Dubreuil, Charles
     gutenberg_agent_id: '54827'
     url: http://www.gutenberg.org/2009/agents/54827
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68560#Deux-annees-en-Ukraine-1917-1919-avec-une-carte-de-l-Ukraine
 gutenberg_issued: '2022-07-18'
 identifiers:
   gutenberg: '68560'
